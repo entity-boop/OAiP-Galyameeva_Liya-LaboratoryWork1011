@@ -1,0 +1,234 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\auth.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\admininfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\admininfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\userinfo.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\photographercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\photographercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\password.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\photographer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\photographer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\newpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\newpass.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\auth.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\admininfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\admininfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\newpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\newpass.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|c:\\users\\msi\\desktop\\cs\\laba10\\laba10\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{43D8E36C-72B5-41F7-BDF6-AC75C485B01F}|laba10\\laba10.csproj|solutionrelative:laba10\\userinfo.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "password.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\password.cs",
+              "RelativeDocumentMoniker": "laba10\\password.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\password.cs",
+              "RelativeToolTip": "laba10\\password.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-27T05:50:17.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PhotographerContext.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\PhotographerContext.cs",
+              "RelativeDocumentMoniker": "laba10\\PhotographerContext.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\PhotographerContext.cs",
+              "RelativeToolTip": "laba10\\PhotographerContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:34:04.946Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "userInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\userInfo.xaml.cs",
+              "RelativeDocumentMoniker": "laba10\\userInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\userInfo.xaml.cs",
+              "RelativeToolTip": "laba10\\userInfo.xaml.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:26:16.913Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "adminInfo.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\adminInfo.xaml.cs",
+              "RelativeDocumentMoniker": "laba10\\adminInfo.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\adminInfo.xaml.cs",
+              "RelativeToolTip": "laba10\\adminInfo.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:55:45.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Auth.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\Auth.xaml.cs",
+              "RelativeDocumentMoniker": "laba10\\Auth.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\Auth.xaml.cs",
+              "RelativeToolTip": "laba10\\Auth.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAwwEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:59:34.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NewPass.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\NewPass.xaml.cs",
+              "RelativeDocumentMoniker": "laba10\\NewPass.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\NewPass.xaml.cs",
+              "RelativeToolTip": "laba10\\NewPass.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALEAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T10:11:34.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Photographer.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\Photographer.cs",
+              "RelativeDocumentMoniker": "laba10\\Photographer.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\Photographer.cs",
+              "RelativeToolTip": "laba10\\Photographer.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-26T09:22:09.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "laba10\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\MainWindow.xaml.cs",
+              "RelativeToolTip": "laba10\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAIoAAAAAAAAAAAAYwBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T12:27:09.341Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Auth.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\Auth.xaml",
+              "RelativeDocumentMoniker": "laba10\\Auth.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\Auth.xaml",
+              "RelativeToolTip": "laba10\\Auth.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T10:00:07.759Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "adminInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\adminInfo.xaml",
+              "RelativeDocumentMoniker": "laba10\\adminInfo.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\adminInfo.xaml",
+              "RelativeToolTip": "laba10\\adminInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T10:46:26.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "laba10\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\MainWindow.xaml",
+              "RelativeToolTip": "laba10\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T09:02:30.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "userInfo.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\userInfo.xaml",
+              "RelativeDocumentMoniker": "laba10\\userInfo.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\userInfo.xaml",
+              "RelativeToolTip": "laba10\\userInfo.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T09:20:07.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "NewPass.xaml",
+              "DocumentMoniker": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\NewPass.xaml",
+              "RelativeDocumentMoniker": "laba10\\NewPass.xaml",
+              "ToolTip": "C:\\Users\\MSI\\Desktop\\cs\\laba10\\laba10\\NewPass.xaml",
+              "RelativeToolTip": "laba10\\NewPass.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-26T10:16:23.734Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

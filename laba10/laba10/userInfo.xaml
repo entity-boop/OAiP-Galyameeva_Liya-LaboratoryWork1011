@@ -1,0 +1,47 @@
+﻿<Window x:Class="laba10.userInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:laba10"
+        mc:Ignorable="d"
+        Title="userInfo" Height="450" Width="800">
+    <Grid Margin="24">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="*"/>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="*"/>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Grid.Row="0" Grid.ColumnSpan="2" 
+                   Text="Данные аккаунта" FontSize="20" FontWeight="SemiBold" 
+                   HorizontalAlignment="Center" Margin="0,0,0,16"/>
+
+        <Label Grid.Row="1" Content="ФИО:" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="1" Grid.Column="1" x:Name="TbFIO" VerticalAlignment="Center" Padding="4"/>
+
+        <Label Grid.Row="2" Content="Email:" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="2" Grid.Column="1" x:Name="TbEmail" VerticalAlignment="Center" Padding="4"/>
+        <Label Grid.Row="3" Content="Телефон:" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="3" Grid.Column="1" x:Name="TbPhone" VerticalAlignment="Center" Padding="4"/>
+
+        <Label Grid.Row="4" Content="Направление:" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="4" Grid.Column="1" x:Name="TbGenre" VerticalAlignment="Center" Padding="4"/>
+
+        <Label Grid.Row="5" Content="Дата публикации:" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="5" Grid.Column="1" x:Name="TbDate" VerticalAlignment="Center" Padding="4"/>
+
+        <Label Grid.Row="6" Content="Роль:" VerticalAlignment="Center"/>
+        <TextBlock Grid.Row="6" Grid.Column="1" x:Name="TbRole" VerticalAlignment="Center" Padding="4"/>
+    </Grid>
+</Window>
